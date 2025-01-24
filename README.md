@@ -6,17 +6,19 @@ A method to accurately determine GT2 belt tension
 
 Per the 1/64 deflection per inch of belt method
 
-I created three STL's, Forward Pins, Sled, and Handle. These mount a Force Gauge
+I created three STL's for V2; Front Pins, Sled, and Deflection Knob. These mount a Force Gauge
 
-To set the amount of belt deflection, I am using a #10-32 socket head cap screw as a stop
+To set the amount of belt deflection, I am using a #10-32 threaded rod attached to the Deflection Knob
 
 Each 1/2 turn of a #10-32 screw equals 1/64 of an inch.
 
-The first assembly was not accurate, it was determined that the friction of the belt against the pins was creating bad reading.
+The first beta version was not accurate, it was determined that the friction of the belt against the pins was creating incorrect reading.
 
-The second assemble used GT2 pulleys for the pins. The results have been within 0.2 pounds.
+The first working version (V1) assembly used GT2 pulleys for the pins. The results have been within 0.2 pounds.
 
-# Thanks to DIYshift, who's tension gauge was used to model the Front stl.
+I am not releasing V1, V2 coming soon
+
+Thanks to DIYshift, who's tension gauge was used to model the Front stl.
 
 https://github.com/Diyshift/3D-Printer/tree/main/GT2%20Belt%20Tension%20Meter
 
