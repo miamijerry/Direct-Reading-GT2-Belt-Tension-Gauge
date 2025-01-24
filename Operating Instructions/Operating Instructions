@@ -4,7 +4,8 @@
 
 3) Set the Force Gauge to read pounds, slowly turn the Deflection Knob clockwise until the Force Gauge reads appoximately 0.10 pounds
 
-4) Determine the length of the belt span in inches, divide these inches by 2 to get number of turns (IE 17 inch span would equal 8.5 turns) 
+4) Determine the length of the belt span in inches, divide these inches by 2 to get the number of turns of the Deflection Knob 
+to get the 1/64 inch of belt deflection per inch that is required (IE 17 inch span would equal 8.5 turns) 
 
 5) Rotate the Deflection Knob clockwise the number of turns determined in step 4
 
