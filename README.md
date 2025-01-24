@@ -14,7 +14,7 @@ Each 1/2 turn of a #10-32 screw equals 1/64 of an inch.
 
 The first beta version was not accurate, and it was determined that the friction of the belt against the pins was creating incorrect reading.
 
-The first working version (V1) assembly used GT2 pulleys for the pins. The results have been within 0.2 pounds.
+The first working version (V1) assembly used GT2 idler pulleys for the pins. The results have been within 0.2 pounds.
 
 I am not releasing V1, V2 coming soon
 
