@@ -16,8 +16,18 @@ The first assembly was not accurate, it was determined that the friction of the 
 
 The second assemble used GT2 pulleys for the pins. The results have been within 0.2 pounds.
 
-![IMG_0918](https://github.com/user-attachments/assets/b6985612-2630-42c9-b60d-bac106db3476)
+# Thanks to DIYshift, who's tension gauge was used to model the Front stl.
 
-![IMG_0917](https://github.com/user-attachments/assets/c979a323-957e-4689-90e8-6ee7700f0586)
+https://github.com/Diyshift/3D-Printer/tree/main/GT2%20Belt%20Tension%20Meter
 
-Second picture shows the deflection #10-32 set screw.
+# License
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
