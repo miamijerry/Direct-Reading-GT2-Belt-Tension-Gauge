@@ -34,15 +34,10 @@ From https://www.sdp-si.com/D265/PDF/D265T050.pdf
 
 and
 
-From https://benchtopmachineshop.blogspot.com/2019/04/printer-belt-tension.html#:~:text=Gates%2C%20the%20creator%20of%20the%20GT2%20belt%2C,bear%20in%20mind%20if%20you're%20using%20dampers).
-
-"Gates, the creator of the GT2 belt, recommends a tension of 6 to 8 pounds of tension when using a 6mm GT2 belt for registration like in a printer. A NEMA 17 stepper motor can handle 6.7 pounds (30N) of radial force centered at 17mm from the motor's face"
-
-and
-
 From https://github.com/Diyshift/3D-Printer/blob/main/GT2%20Belt%20Tension%20Meter/Manual/GT2_Tensiometer_Manual.pdf
 
-DIYshift tension guideline; Voron - A/B 6mm Belts Min 2.0 lbs Max 3.5 lbs, Voron belted Z 9mm belt min 4.5 lbs Max 6.0 lbs
+DIYshift tension guideline; 
+# Voron - A/B 6mm Belts Min 2.0 lbs Max 3.5 lbs, Voron belted Z 9mm belt min 4.5 lbs Max 6.0 lbs
 
 
 
