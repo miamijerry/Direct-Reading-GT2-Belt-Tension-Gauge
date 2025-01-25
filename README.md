@@ -53,7 +53,7 @@ Hang a known weight from a section of GT2 belt
 
 Following operating procedure
 
-Verify that the gauge reports the same the known weight
+Verify that the gauge reports the same value as the known weight
 
 
 # License
