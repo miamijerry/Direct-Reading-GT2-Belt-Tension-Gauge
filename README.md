@@ -26,7 +26,8 @@ Recommended GT2 Belt Tension
 
 Hard to find this information, found https://www.sdp-si.com/D265/PDF/D265T050.pdf
 
-(https://github.com/user-attachments/assets/0b852334-69bb-40e0-9435-61bef7041fa8)
+(![Recommended Tension](https://github.com/user-attachments/assets/db23475d-1481-46ca-8ccd-a2cee577a575)
+
 
 # License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]![Recommended Tension]
