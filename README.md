@@ -1,4 +1,11 @@
 # New V2 is uploaded
+
+![IMG_0922](https://github.com/user-attachments/assets/9c6765bf-3f2a-4b52-aff7-0a54b40725c6)
+
+![IMG_0920](https://github.com/user-attachments/assets/1242eda1-cf7a-4341-a860-5936d9b471eb)
+
+![IMG_0921](https://github.com/user-attachments/assets/69165bb3-4c7b-4b13-8508-e57a17f6f3cc)
+
 # Direct-Reading-GT2-Belt-Tension-Gauge
 A method to accurately determine GT2 belt tension
 
