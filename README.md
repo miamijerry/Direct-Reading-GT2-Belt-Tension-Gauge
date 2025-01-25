@@ -25,6 +25,7 @@ https://github.com/Diyshift/3D-Printer/tree/main/GT2%20Belt%20Tension%20Meter
 Recommended GT2 Belt Tension
 
 Hard to find this information, found https://www.sdp-si.com/D265/PDF/D265T050.pdf
+
 (https://github.com/user-attachments/assets/0b852334-69bb-40e0-9435-61bef7041fa8)
 
 # License
