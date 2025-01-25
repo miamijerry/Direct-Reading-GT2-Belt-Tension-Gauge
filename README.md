@@ -47,6 +47,13 @@ DIYshift tension guideline;
 # Voron - A/B 6mm Belts Min 2.0 lbs Max 3.5 lbs, Voron belted Z 9mm belt min 4.5 lbs Max 6.0 lbs
 
 
+# Verifying that this gauge is reading correctly
+
+Hang a known weight from a section of GT2 belt
+
+Following operating procedure
+
+Verify that the gauge reports the same the known weight
 
 
 # License
