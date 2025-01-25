@@ -22,19 +22,23 @@ Thanks to DIYshift, who's tension gauge was used to model the Front stl.
 
 https://github.com/Diyshift/3D-Printer/tree/main/GT2%20Belt%20Tension%20Meter
 
-Recommended GT2 Belt Tension
+
+
+# Recommended GT2 Belt Tension
 
 Hard to find this information, 
 
 From https://www.sdp-si.com/D265/PDF/D265T050.pdf
 
-(![Recommended Tension](https://github.com/user-attachments/assets/db23475d-1481-46ca-8ccd-a2cee577a575)
+![Recommended Tension](https://github.com/user-attachments/assets/db23475d-1481-46ca-8ccd-a2cee577a575)
 
 and
 
+From https://benchtopmachineshop.blogspot.com/2019/04/printer-belt-tension.html#:~:text=Gates%2C%20the%20creator%20of%20the%20GT2%20belt%2C,bear%20in%20mind%20if%20you're%20using%20dampers).
+
 "Gates, the creator of the GT2 belt, recommends a tension of 6 to 8 pounds of tension when using a 6mm GT2 belt for registration like in a printer. A NEMA 17 stepper motor can handle 6.7 pounds (30N) of radial force centered at 17mm from the motor's face"
 
-From https://benchtopmachineshop.blogspot.com/2019/04/printer-belt-tension.html#:~:text=Gates%2C%20the%20creator%20of%20the%20GT2%20belt%2C,bear%20in%20mind%20if%20you're%20using%20dampers).
+
 
 
 # License
