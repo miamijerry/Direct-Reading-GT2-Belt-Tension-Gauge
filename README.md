@@ -23,7 +23,7 @@ The first beta version was not accurate, and it was determined that the friction
 
 The first working version (V1) assembly used GT2 idler pulleys for the pins. The results have been within 0.2 pounds.
 
-I am not releasing V1, V2 coming soon
+I am not releasing V1, because V2 was much better.
 
 Thanks to DIYshift, who's tension gauge was used to model the Front stl.
 
