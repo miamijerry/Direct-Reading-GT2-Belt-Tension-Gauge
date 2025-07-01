@@ -1,3 +1,7 @@
+# 7/1/2025 Added files to convert this GT2 belt tension gauge to a Magnet Comparator
+
+
+
 # New V2 is uploaded
 
 ![IMG_0922](https://github.com/user-attachments/assets/9c6765bf-3f2a-4b52-aff7-0a54b40725c6)
