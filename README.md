@@ -27,7 +27,7 @@
 # _________________________________________________________________________
 
 
-# V2 of Direct Reading GT2 Belt Tension Gauge is uploaded
+# V2 of Direct Reading GT2 Belt Tension Gauge
 
 ![IMG_0922](https://github.com/user-attachments/assets/9c6765bf-3f2a-4b52-aff7-0a54b40725c6)
 
