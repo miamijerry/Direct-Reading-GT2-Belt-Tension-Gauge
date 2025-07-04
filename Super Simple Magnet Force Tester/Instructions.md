@@ -1,6 +1,6 @@
 ![IMG_1259](https://github.com/user-attachments/assets/e60a801e-e0d5-4838-80e0-de24d02d7ce5)
 
-1) Start with a tube, a plunger, two magnet carriers and any digital scale. (In this picture I am using 1/2" schedule 20 PVC water pipe for the tube)
+1) Start with a tube, a plunger, two magnet carriers and any digital scale. (In this picture I am using 390mm long 1/2" schedule 20 PVC water pipe for the tube)
 
   ![IMG_1260](https://github.com/user-attachments/assets/d6fda9ef-00d1-4cb5-8e22-75571624c324)
 
