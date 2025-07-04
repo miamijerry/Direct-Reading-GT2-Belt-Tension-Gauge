@@ -7,7 +7,7 @@ Parts needed to assemble this tool.
 
 ![IMG_1266](https://github.com/user-attachments/assets/fe9f9a62-2401-4587-af1d-325ef5402322)
 
-Mount the Belt Tension Meter to the printed Backplate.
+Mount the Belt Tension Meter to the printed Backplate with longer screws M3x18mm work fine.
 
 ![IMG_1267](https://github.com/user-attachments/assets/917c4582-7395-45e2-8fe8-983bb76fda4a)
 
