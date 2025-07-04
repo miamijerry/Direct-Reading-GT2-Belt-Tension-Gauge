@@ -1,6 +1,9 @@
 # 7/1/2025 Added files to convert this GT2 belt tension gauge to a Magnet Comparator
 
-![IMG_1256](https://github.com/user-attachments/assets/caddf1df-c9e5-46e7-bfd6-ad1b3434bda6)
+![10x5mm N52 magnet from JC Magnetics](https://github.com/user-attachments/assets/a8ca6a14-196f-4c05-a36b-e10797391819)
+
+10x5mm N52 magnet from JC Magnetics
+
 
 ![IMG_1257](https://github.com/user-attachments/assets/4bb44b05-ea95-4c7e-be47-25d3bdd3e6d0)
 
