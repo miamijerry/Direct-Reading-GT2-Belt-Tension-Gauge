@@ -3,7 +3,7 @@ https://www.printables.com/model/634190-gt2-belt-tension-meter-wbearings
 
 ![IMG_1265](https://github.com/user-attachments/assets/74fbae29-5514-4c62-a287-c1178246443d)
 
-Parts need to assemble this tool.
+Parts needed to assemble this tool.
 
 ![IMG_1266](https://github.com/user-attachments/assets/fe9f9a62-2401-4587-af1d-325ef5402322)
 
