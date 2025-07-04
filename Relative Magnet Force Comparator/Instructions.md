@@ -13,4 +13,10 @@ Mount the Belt Tension Meter to the printed Backplate with longer screws M3x18mm
 
 ![IMG_1267](https://github.com/user-attachments/assets/917c4582-7395-45e2-8fe8-983bb76fda4a)
 
-Advance the thread magnet carrier until the pointer reads 3.0 (This is relative, only good for comparating) At this point the threaded carrier needs to be set to this depth with a jam nut (Not Shown).
+Advance the thread magnet carrier until the pointer reads 3.0 (This is relative, only good for comparating) 
+
+![M16 Knurled Jam Nut](https://github.com/user-attachments/assets/1201b94d-9c8f-4013-93c2-10ca0abee817)
+
+At this point the threaded carrier needs to be set to this depth with a jam nut.
+
+
