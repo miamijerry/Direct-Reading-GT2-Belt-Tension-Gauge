@@ -14,11 +14,11 @@
 
 4) Place plunger in the tube and depress everything solid against an object and mark the plunger height.
 
-![IMG_1262](https://github.com/user-attachments/assets/c461a288-c5cb-4e46-bd43-97b0c78c22f6)
+![IMG_1263](https://github.com/user-attachments/assets/9f22a6d9-6c28-4679-b2ec-c8ecd60bf088)
 
 5) A carrier should now extend from the tube like a spring.
 
-![IMG_1263](https://github.com/user-attachments/assets/9f22a6d9-6c28-4679-b2ec-c8ecd60bf088)
+![IMG_1264](https://github.com/user-attachments/assets/1c77e82d-c1ad-4f09-ac4f-f7aafb0f4c59)
 
 6) Press the tool against a scale and depress the carrier into the tube til the tube is ABOUT touches the scale, note the repelling force of the magnet
 
