@@ -4,7 +4,7 @@
 
   ![IMG_1260](https://github.com/user-attachments/assets/d6fda9ef-00d1-4cb5-8e22-75571624c324)
 
-2) I glued the two magnets in the carrier with RTV adhesive with magnets repelling, place first carrier in tube.
+2) I glued the two magnets in the carriers with RTV adhesive with magnets repelling, place first carrier in tube.
 
 ![IMG_1261](https://github.com/user-attachments/assets/321397bd-7114-4439-8bd7-1f2d0fccab57)
 
