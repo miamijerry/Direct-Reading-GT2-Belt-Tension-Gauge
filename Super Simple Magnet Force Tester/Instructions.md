@@ -20,6 +20,6 @@
 
 ![IMG_1264](https://github.com/user-attachments/assets/1c77e82d-c1ad-4f09-ac4f-f7aafb0f4c59)
 
-6) Press the tool against a scale and depress the carrier into the tube til the tube is ABOUT touches the scale, note the repelling force of the magnet
+6) Press the tool against a scale and depress the carrier into the tube til the tube is ABOUT to touches the scale, note the repelling force of the magnet
 
-![IMG_1264](https://github.com/user-attachments/assets/1c77e82d-c1ad-4f09-ac4f-f7aafb0f4c59)
+
