@@ -1,6 +1,7 @@
 Create a "Relative Magnet Force Comparator" from YesterdaysCoffee Belt Tension Meter;
 https://www.printables.com/model/634190-gt2-belt-tension-meter-wbearings
-Tool is only for comparing magnets, will show relative weaker or stronger magnets then the magnet used to set the pointer.
+
+# Tool is only for comparing magnets, will show relative weaker or stronger magnets then the magnet used to set the pointer.
 
 ![IMG_1265](https://github.com/user-attachments/assets/74fbae29-5514-4c62-a287-c1178246443d)
 
