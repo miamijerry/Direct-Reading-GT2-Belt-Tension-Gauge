@@ -1,3 +1,14 @@
+# 7/4/2025 Added 
+# Relative Magnet Force Comparator
+
+![IMG_1267](https://github.com/user-attachments/assets/9fd61850-a663-4fd5-be41-5f43607660db)
+
+# and
+# Super Simply Magnet Force Measurement Tool
+
+![IMG_1263](https://github.com/user-attachments/assets/95ea8187-05b8-4589-bafb-efcdfe139cda)
+
+
 # 7/1/2025 Added files to convert this GT2 belt tension gauge to a Magnet Force Measurement Tool
 
 ![10x5mm N52 magnet from JC Magnetics](https://github.com/user-attachments/assets/a8ca6a14-196f-4c05-a36b-e10797391819)
